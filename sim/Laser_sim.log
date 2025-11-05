@@ -1,0 +1,279 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\spider\Desktop\laser2\Sensor_Box_Magnetometer_AFE\sim\Laser_sim.asc
+Start Time: Wed Aug 20 23:10:15 2025
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node vctrl_dc.  This node is used by v4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.1391
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.09561
+vernier = 0.0208333
+vernier = 0.0104167
+Gmin = 1.06888
+vernier = 0.00520833
+vernier = 0.00694444
+vernier = 0.00347222
+Gmin = 1.06194
+vernier = 0.00462963
+vernier = 0.00231481
+Gmin = 1.05399
+vernier = 0.00308642
+Gmin = 1.0467
+vernier = 0.00154321
+vernier = 0.00205761
+Gmin = 1.04334
+vernier = 0.00274348
+vernier = 0.00137174
+vernier = 0.00182899
+Gmin = 1.04
+vernier = 0.000914493
+vernier = 0.00121932
+Gmin = 1.03787
+vernier = 0.00162576
+vernier = 0.000812882
+Gmin = 1.03587
+vernier = 0.00108384
+vernier = 0.00144512
+vernier = 0.000722562
+Gmin = 1.03381
+vernier = 0.000963415
+vernier = 0.000481708
+Gmin = 1.03213
+vernier = 0.000642277
+Gmin = 1.03064
+vernier = 0.000856369
+vernier = 0.000428184
+vernier = 0.000570912
+Gmin = 1.02965
+vernier = 0.000761216
+vernier = 0.000570912
+Gmin = 1.02847
+vernier = 0.000761216
+vernier = 0.000570912
+vernier = 0.000761216
+vernier = 0.000570912
+Gmin = 1.02759
+vernier = 0.000761216
+vernier = 0.000570912
+vernier = 0.000428184
+Gmin = 1.02679
+vernier = 0.000570912
+vernier = 0.000428184
+Gmin = 1.02591
+vernier = 0.000570912
+vernier = 0.000428184
+vernier = 0.000570911
+vernier = 0.000428184
+Gmin = 1.02525
+vernier = 0.000570911
+vernier = 0.000428183
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0807%
+Source Step = 91.1251%
+Source Step = 91.1695%
+Source Step = 91.2139%
+Source Step = 91.2583%
+vernier = 0.00219727
+Source Step = 91.3093%
+Source Step = 91.3759%
+Source Step = 91.4425%
+Source Step = 91.5091%
+Source Step = 91.5757%
+vernier = 0.0032959
+Source Step = 91.6489%
+Source Step = 91.7488%
+Source Step = 91.8487%
+Source Step = 91.9485%
+Source Step = 92.0484%
+vernier = 0.00494385
+Source Step = 92.1533%
+Source Step = 92.3031%
+Source Step = 92.4529%
+Source Step = 92.6027%
+Source Step = 92.7525%
+Source Step = 92.9024%
+vernier = 0.00741577
+Source Step = 93.1271%
+Source Step = 93.3518%
+Source Step = 93.5765%
+Source Step = 93.8012%
+Source Step = 94.026%
+vernier = 0.0111237
+Source Step = 94.3518%
+Source Step = 94.6889%
+Source Step = 95.026%
+Source Step = 95.363%
+Source Step = 95.7001%
+vernier = 0.0166855
+Source Step = 96.172%
+Source Step = 96.6777%
+Source Step = 97.1833%
+Source Step = 97.6889%
+Source Step = 98.1945%
+vernier = 0.0250282
+Source Step = 98.8771%
+Source Step = 99.6355%
+Source stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.000154334 to 0.000154334
+Heightened Def Con from 0.000154334 +to 0.000154334
+Heightened Def Con from 0.000154334 to 0.000154334
+Heightened Def Con from 0.000156066 to 0.000156066
+Heightened Def Con from 0.000156066 to 0.000156066
+Heightened Def Con from 0.000156066 to 0.000156066
+Heightened Def Con from 0.000156066 to 0.000156066
+Heightened Def Con from 0.000156066 to 0.000156066
+Heightened Def Con from 0.000156175 to 0.000156175
+Heightened Def Con from 0.000156175 to 0.000156175
+Heightened Def Con from 0.000156175 ++++++++++++++++++++to 0.000156176
+Heightened Def Con from 0.000156176 +++++++++++++++++++to 0.000156177
+Heightened Def Con from 0.000156177 +++++++++++++++++++to 0.00015618
+Heightened Def Con from 0.00015618 +++++++++++++++++++to 0.00015618
+Heightened Def Con from 0.00015618 +++++++++++++++++++to 0.000156181
+Heightened Def Con from 0.000156181 +++++++++++++++++++to 0.000156181
+Heightened Def Con from 0.000156181 +++++++++++++++++++to 0.000156181
+Heightened Def Con from 0.000156181 +++++++++++++++++++to 0.000156181
+Heightened Def Con from 0.000156181 +++++++++++++++++++to 0.000156181
+Heightened Def Con from 0.000156181 +++++++++++++++++++to 0.000156181
+Heightened Def Con from 0.000156181 +++++++++++++++++++to 0.000156181
+Heightened Def Con from 0.000156181 +++++++++++++++++++to 0.000156181
+Heightened Def Con from 0.000156181 +++++++++++++++++++to 0.000156184
+Heightened Def Con from 0.000156184 ++++++++++to 0.000156186
+Heightened Def Con from 0.000156186 +to 0.000156187
+Heightened Def Con from 0.000156187 to 0.000156187
+Heightened Def Con from 0.000156187 to 0.000156187
+Heightened Def Con from 0.000156187 ++to 0.000156187
+Heightened Def Con from 0.000156187 to 0.000156187
+Heightened Def Con from 0.000156187 +to 0.000156187
+Heightened Def Con from 0.000156187 ++++++++++++++++++++to 0.000156187
+Heightened Def Con from 0.000156187 +++++++++++++++++to 0.000156188
+Heightened Def Con from 0.000156188 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 +++++++++++++++++to 0.000156189
+Heightened Def Con from 0.000156189 ++++++++to 0.00015619
+Heightened Def Con from 0.000156349 ++++++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 +++++++++++++++to 0.000156349
+Heightened Def Con from 0.000156349 ++++++to 0.00015635
+Heightened Def Con from 0.000156443 to 0.000156443
+Heightened Def Con from 0.000156443 to 0.000156443
+Heightened Def Con from 0.000156443 to 0.000156443
+Heightened Def Con from 0.000156443 to 0.000156443
+Heightened Def Con from 0.000156596 to 0.000156596
+Heightened Def Con from 0.000156596 to 0.000156596
+Heightened Def Con from 0.000156596 to 0.000156596
+Heightened Def Con from 0.000156669 to 0.000156669
+Heightened Def Con from 0.000156669 to 0.000156669
+Heightened Def Con from 0.000156669 to 0.000156669
+Heightened Def Con from 0.000156669 to 0.000156669
+Heightened Def Con from 0.000156669 to 0.000156669
+Heightened Def Con from 0.000156669 to 0.000156669
+Heightened Def Con from 0.000156669 to 0.000156669
+Heightened Def Con from 0.000354334 to 0.000354334
+Heightened Def Con from 0.000354334 to 0.000354334
+Heightened Def Con from 0.000354334 to 0.000354334
+Heightened Def Con from 0.000354334 to 0.000354334
+Heightened Def Con from 0.000354334 to 0.000354334
+Heightened Def Con from 0.000356065 +to 0.000356065
+Heightened Def Con from 0.000356065 ++++to 0.000356065
+Heightened Def Con from 0.000356065 to 0.000356065
+Heightened Def Con from 0.000356065 ++to 0.000356065
+Heightened Def Con from 0.000356065 to 0.000356065
+Heightened Def Con from 0.000356065 to 0.000356065
+Heightened Def Con from 0.000356175 to 0.000356175
+Heightened Def Con from 0.000356175 ++to 0.000356175
+Heightened Def Con from 0.000356175 to 0.000356175
+Heightened Def Con from 0.000356175 to 0.000356175
+Heightened Def Con from 0.000356175 to 0.000356175
+Heightened Def Con from 0.000356175 to 0.000356175
+Heightened Def Con from 0.000356332 to 0.000356332
+Heightened Def Con from 0.000356332 to 0.000356332
+Heightened Def Con from 0.000356425 ++++++++++++++++++++to 0.000356426
+Heightened Def Con from 0.000356426 +++++++++++++++to 0.000356426
+Heightened Def Con from 0.000356426 +++++++++++to 0.000356426
+Heightened Def Con from 0.000356426 +++++++++to 0.000356426
+Heightened Def Con from 0.000356426 ++++++++to 0.000356426
+Heightened Def Con from 0.000356426 ++++++++to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 +to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 +to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 +to 0.000356426
+Heightened Def Con from 0.000356426 +to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 +to 0.000356426
+Heightened Def Con from 0.000356426 ++to 0.000356426
+Heightened Def Con from 0.000356426 ++to 0.000356426
+Heightened Def Con from 0.000356426 to 0.000356426
+Heightened Def Con from 0.000356426 +to 0.000356426
+Heightened Def Con from 0.000356426 ++to 0.000356426
+Heightened Def Con from 0.000356426 +to 0.000356426
+Heightened Def Con from 0.000356652 to 0.000356652
+Heightened Def Con from 0.000356652 +to 0.000356652
+Heightened Def Con from 0.000356652 to 0.000356652
+Heightened Def Con from 0.000356652 to 0.000356652
+Heightened Def Con from 0.000356652 +to 0.000356652
+Heightened Def Con from 0.000356652 to 0.000356652
+Heightened Def Con from 0.000356652 to 0.000356652
+Total elapsed time: 3.160 seconds.
+

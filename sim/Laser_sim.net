@@ -1,0 +1,24 @@
+* C:\Users\spider\Desktop\laser2\Sensor_Box_Magnetometer_AFE\sim\Laser_sim.asc
+M1 N004 Vg N002 N002 AO3423
+V1 V+ 0 15
+V2 0 V- 15
+V3 Vctrl 0 PULSE(0 1 0 100u 100u 0 200u)
+R3 V+ N002 10
+R2 N001 Iout 1k
+R5 N002 N001 10k
+R6 V+ N003 10k
+R4 N003 0 1k
+R7 Vg Vctrl 10k
+D1 N004 0 NSSWS108T
+V4 Vctrl_DC 0 0.5
+XU1 Iout Vctrl V+ V- Vg 0 ADA4898
+XU2 N003 N001 V+ V- Iout 0 ADA4898
+.model D D
+.lib C:\Users\spider\AppData\Local\LTspice\lib\cmp\standard.dio
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\spider\AppData\Local\LTspice\lib\cmp\standard.mos
+.tran 400u
+.lib ADA4898.lib
+.backanno
+.end
